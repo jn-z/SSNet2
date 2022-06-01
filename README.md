@@ -49,20 +49,20 @@ This repository was developed and tested in PyTorch 1.5.
 
 ## Results
 
-![](./figures/predict_results.pdf)
+(./figures/predict_results.pdf)
 
 > *Compare evaluation results of our implementation to the original CenterNet on all datasets.*
 
 
-![](./figures/train_loss.png)
+(./figures/train_loss.png)
 
 > *An example image : The network loss function with epochs.*
 
-![](./figures/network.pdf)
+(./figures/network.pdf)
 
 > *The pipeline of our method for wideband signal detection and classification.*
 
-![](./figures/pr_curve.png)
+(./figures/pr_curve.png)
 
 > *Wideband signal detection Recall vs. Precision curve at GFSK signal
 
