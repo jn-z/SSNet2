@@ -10,9 +10,8 @@ Relevant training data sets and test data sets will be released in the near futu
 
 ### Example Output
 
-> *Bounding box detection result of an time frequency spectrum of broadband signal
 
-![](./figures/center_heatmap.jpeg)
+(./figures/center_heatmap.jpeg)
 
 > *Predicted heatmap of object center points on an time frequency spectrum of broadband signal
 
