@@ -24,15 +24,15 @@ Relevant training data sets and test data sets will be released in the near futu
 
 ```
 ├── SSNet
-│ �?├── dataset.py
-│ �?├── DLAnet.py
-│ �?├── loss.py
-│ �?├── predict.py
-│ �?├── train.py
-│ �?└── utils.py
+│   ├── dataset.py
+│   ├── DLAnet.py
+│   ├── loss.py
+│   ├── predict.py
+│   ├── train.py
+│   └── utils.py
 ├── dataset_split
-│ �?├── train.txt
-│ �?└── val.txt
+│   ├── train.txt
+│   └── val.txt
 ├── environment.yml
 ```
 
@@ -44,6 +44,8 @@ This repository was developed and tested in PyTorch 1.5.
 - Modify signal dataset directory in centernet-vanilla/dataset.py
 - Run [train.py](SSNet2/train.py) for training and [predict.py](SSNet2/predict.py) for inference
 
+
+## Results
 
 ## Results
 
@@ -63,8 +65,6 @@ This repository was developed and tested in PyTorch 1.5.
 ![](./figures/pr_curve.png)
 
 > *Wideband signal detection Recall vs. Precision curve at GFSK signal
-
-Figure above shows the precision-recall curve of our final model on the validation set. Three curves represent easy, moderate, and hard objects respectively. The area under the curve is the average precision (AP).
 
 ## Acknowledgement
 
