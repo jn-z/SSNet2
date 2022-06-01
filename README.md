@@ -1,4 +1,4 @@
-## SSNet2 Detection on Wideband signal
+## SSNet2: a novel communication wideband signal detection network with start-stop points, which can be trained without special candidate anchors.
 
 ## Overview
 
